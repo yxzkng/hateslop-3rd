@@ -20,8 +20,5 @@
 
 | 주차 | 주제 | 폴더 | 원본 레포 |
 | --- | --- | --- | --- |
-| 2주차 | 개발 환경 세팅 | [`4th/week02_dev-setup`](4th/week02_dev-setup) | [4-week2](https://github.com/yxzkng/4-week2) |
 | 4주차 | 프롬프트 엔지니어링, RAG | [`4th/week04_prompt-engineering-rag`](4th/week04_prompt-engineering-rag) | [4-week4](https://github.com/yxzkng/4-week4) |
 | - | Hugging Face 기초, Transformer | [`4th/huggingface`](4th/huggingface) | [4-huggingface](https://github.com/yxzkng/4-huggingface) |
-
-> 4기 2주차 폴더에 커밋돼 있던 가상환경(`testenv/`)은 레포 정리 과정에서 제외했습니다.
